@@ -1,0 +1,57 @@
+[00:00:00] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:00:00] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,sparkshammers@@VERSION@,mixinbooter@10.2,cgm@0.15.3,renderlib@1.3.5,jade@0.1.0,jei@4.15.0.296,vintagefix@0.5.1,falling_tree@2.4.0,ksyxis@1.3.2,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,spartanshields@1.5.5,mcp@9.42,spaceambient@0.0.1,travelersbackpack@1.0.35,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,betterrecords@unspecified,chameleon@1.12-4.1.3,FML@8.0.99.99,redirectionor@1.7 for 1.12.2-1.8.8,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,forgelin@1.8.3,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.8.0,llibrary@1.7.20,moreplanetsextras@1.12.2-1.0,appleskin@1.0.14,antiqueatlasoverlay@1.2,pickupnotifier@1.1.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,nothirium@0.3.4-beta,zollerngalaxy@2.0.46,realtimeclock@1.12.2-1.2,forge@14.23.5.2864,texfix@4.0,malisisdoors@1.12.2-7.3.0,antiqueatlas@4.6.3,moreplanets@2.3.3
+[00:00:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:00:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: itzel1148h[/127.156.254.62:44657] logged in with entity id 0 at (-220.5, 64.0, 258.5)
+[00:00:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: itzel1148h joined the game
+[00:00:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: itzel1148h has made the advancement [Christmas]
+[00:00:08] [Server thread/INFO] [betterrecords]: Sending library "Kevin MacLeod" to client: itzel1148h
+[00:00:08] [Server thread/INFO] [betterrecords]: Sending library "My Library" to client: itzel1148h
+[00:00:08] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player itzel1148h
+[00:00:08] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player itzel1148h
+[00:00:20] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[00:00:20] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,sparkshammers@@VERSION@,mixinbooter@10.2,cgm@0.15.3,renderlib@1.3.5,jade@0.1.0,jei@4.15.0.296,vintagefix@0.5.1,falling_tree@2.4.0,ksyxis@1.3.2,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,spartanshields@1.5.5,mcp@9.42,spaceambient@0.0.1,travelersbackpack@1.0.35,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,betterrecords@unspecified,chameleon@1.12-4.1.3,FML@8.0.99.99,redirectionor@1.7 for 1.12.2-1.8.8,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,forgelin@1.8.3,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.8.0,llibrary@1.7.20,moreplanetsextras@1.12.2-1.0,appleskin@1.0.14,antiqueatlasoverlay@1.2,pickupnotifier@1.1.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,nothirium@0.3.4-beta,zollerngalaxy@2.0.46,realtimeclock@1.12.2-1.2,forge@14.23.5.2860,texfix@4.0,malisisdoors@1.12.2-7.3.0,antiqueatlas@4.6.3,moreplanets@2.3.3
+[00:00:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:00:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lalo_prismx64[/127.189.14.69:35973] logged in with entity id 435 at (-190.85114951576108, 63.0, 252.88806995798407)
+[00:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo_prismx64 joined the game
+[00:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lalo_prismx64 has made the advancement [Mysterious Gift]
+[00:00:22] [Server thread/INFO] [betterrecords]: Sending library "Kevin MacLeod" to client: lalo_prismx64
+[00:00:22] [Server thread/INFO] [betterrecords]: Sending library "My Library" to client: lalo_prismx64
+[00:00:22] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player lalo_prismx64
+[00:00:22] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player lalo_prismx64
+[00:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> vrga
+[00:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> MY PCCCCCCC
+[00:01:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> estas muriendo
+[00:01:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> wenas
+[00:01:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> adivina las especificaciones del server
+[00:01:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> 40dps
+[00:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> el spawn tiene proteccion?
+[00:01:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> no
+[00:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> en que se me ha convertido...
+[00:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> si creo que si tiene proteccion
+[00:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> x2
+[00:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> mira tu ping
+[00:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> o no tengo derechos de mineria
+[00:03:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: itzel1148h lost connection: Disconnected
+[00:03:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: itzel1148h left the game
+[00:03:50] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:03:50] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 48 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,mowziesmobs@1.5.8,sparkshammers@@VERSION@,mixinbooter@10.2,cgm@0.15.3,renderlib@1.3.5,jade@0.1.0,jei@4.15.0.296,vintagefix@0.5.1,falling_tree@2.4.0,ksyxis@1.3.2,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,spartanshields@1.5.5,mcp@9.42,spaceambient@0.0.1,travelersbackpack@1.0.35,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,betterrecords@unspecified,chameleon@1.12-4.1.3,FML@8.0.99.99,redirectionor@1.7 for 1.12.2-1.8.8,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,forgelin@1.8.3,inventorytweaks@1.63+release.109.220f184,extraplanets@1.12.2-0.8.0,llibrary@1.7.20,moreplanetsextras@1.12.2-1.0,appleskin@1.0.14,antiqueatlasoverlay@1.2,pickupnotifier@1.1.5,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,mjrlegendslib@1.12.2-1.2.1,fpsreducer@mc1.12.2-1.20,nothirium@0.3.4-beta,zollerngalaxy@2.0.46,realtimeclock@1.12.2-1.2,forge@14.23.5.2864,texfix@4.0,malisisdoors@1.12.2-7.3.0,antiqueatlas@4.6.3,moreplanets@2.3.3
+[00:03:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:03:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: itzel1148h[/127.156.254.62:43645] logged in with entity id 3056 at (-221.8599712943682, 64.0, 259.5988619367974)
+[00:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: itzel1148h joined the game
+[00:03:55] [Server thread/INFO] [betterrecords]: Sending library "Kevin MacLeod" to client: itzel1148h
+[00:03:55] [Server thread/INFO] [betterrecords]: Sending library "My Library" to client: itzel1148h
+[00:03:55] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player itzel1148h
+[00:03:55] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player itzel1148h
+[00:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> que raro
+[00:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> porque siempre me nerfean
+[00:05:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> alparecer solo tu puedes mnar en el spawn
+[00:05:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'en' cannot be found
+[00:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'ithzel1148h' cannot be found
+[00:07:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> vaya
+[00:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> sera porque soy admin
+[00:07:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> intenta ahora
+[00:08:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> cambie algo
+[00:08:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <itzel1148h> pos acabe de talar esta parte mientras andabas afk
+[00:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> perate
+[00:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <lalo_prismx64> llega
+[00:08:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [lalo_prismx64: Opped itzel1148h]
